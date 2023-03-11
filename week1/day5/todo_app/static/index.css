@@ -1,0 +1,14 @@
+
+h1{
+    color: blue;
+}
+
+.welcome{
+    border: 2px dotted green;
+    color: green;
+}
+
+li {
+    font-size: 16px;
+    font-weight: bold;
+}
